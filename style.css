@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto+Mono:wght@500&display=swap');
+
+#HeadContainer{
+    max-width: 400px;
+    margin: auto;
+}
+
+#BodyContainer{
+    max-width: 650px;
+    margin: auto;
+}
+
+h1{
+    color:black;
+    font-weight:100;
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+}
+
+h2{
+    color:black;
+    font-weight:100;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+    font-family: 'Roboto Mono',sans-serif ;
+}
+
+#Targets{
+    border: 3px solid black;
+    box-shadow: 4px 4px 14px lightskyblue;
+}
+
+#StudyTime{
+    border: 3px solid black;
+    box-shadow: 4px 4px 14px darkorchid;
+}
+
+#MyComplCurses{
+    border: 3px solid black;
+    box-shadow: 4px 4px 14px blue;
+}
+
+#Contacts{
+    border: 3px solid black;
+    box-shadow: 4px 4px 14px darkmagenta;
+}
+
+#Cards{
+    margin-bottom: 28px;
+}
+
+#Abox{
+    max-width: 300px;
+    margin: auto;
+}
+
+#Bbox{
+    max-width: 430px;
+    margin: auto;
+}
+
+#Cbox{
+    max-width: 310px;
+    margin: auto;
+}
+
+#Dbox{
+    max-width: 140px;
+    margin: auto;
+}
+
+#Bbbox{
+    max-width: 140px;
+    margin: auto;
+    padding-bottom:30px;
+}
+
+#Cbbox{
+    max-width: 300px;
+    margin: auto;
+}
+
+#CbboxTwo{
+    max-width: 300px;
+    margin: auto;
+}
+
+#Dbbox{
+    max-width: 340px;
+    margin: auto;
+}
+
+#mama {
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgb(0, 0, 0);
+}
+
+#telegram{
+    border-radius: 50%;
+    box-shadow: 4px 4px 14px lightskyblue;
+}
+
+#instagram{
+    border-radius: 50%;
+    box-shadow: 4px 4px 14px darkorchid;
+}
+
+#vk{
+    border-radius: 50%;
+    box-shadow: 4px 4px 14px blue;
+}
+
+#github{
+    border-radius: 50%;
+    box-shadow: 4px 4px 14px darkmagenta;
+}
